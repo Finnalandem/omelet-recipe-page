@@ -17,7 +17,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](./assets/images/Screenshot%202024-02-21%20at%2012.35.16 PM.png)
+![](./assets/images/Screenshot%202024-02-21%20at%2012.35.16 PM.png alt="none")
 
 ## My process
 
